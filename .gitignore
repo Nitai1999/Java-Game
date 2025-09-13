@@ -1,0 +1,21 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build outputs
+out/
+bin/
+build/
+dist/
+target/
+
+# Java
+*.class
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Archives (remove this if you want ass5.zip tracked)
+*.zip
